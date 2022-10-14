@@ -1,9 +1,12 @@
 
 <nav class="navbar navbar-expand-custom navbar-mainbg">
+    <div class="container">
+    <div> 
 	<a class="navbar-brand navbar-logo" href="#">Victory Token</a>
 	<button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<i class="fas fa-bars text-white"></i>
 	</button>
+    </div>
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		<ul class="navbar-nav ml-auto">
 			<div class="hori-selector">
@@ -30,6 +33,7 @@
 			</li>
 		</ul>
 	</div>
+    </div>
 </nav>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
